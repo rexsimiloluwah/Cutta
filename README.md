@@ -30,5 +30,5 @@ To Run :-  <br/>
 
 <hr/>
 
-See deployed project [HERE][https://cutta.netlif.app] for more information.
+See deployed project [HERE](https://cutta.netlify.app) for more information.
 
